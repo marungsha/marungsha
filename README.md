@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @marungsha
-- 👀 I’m interested in Universe
-- 🌱 I’m currently learning Everything
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me is not documented
+🚀 Full-Stack Developer  
+🎯 Focused on scalable tech solutions for Supply chain, Edtech, OTT & E-commerce  
+🔧 Expertise: React, Node.js, TypeScript, Next.js, AWS, MySQL, MongoDB  
 
 <!---
 marungsha/marungsha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
